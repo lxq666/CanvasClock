@@ -1,2 +1,2 @@
 # CanvasClock
-android canvas clock
+可以自动走的钟表，用canvas绘制。
